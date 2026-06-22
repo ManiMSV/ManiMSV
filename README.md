@@ -6,12 +6,6 @@
 
 </div>
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=false&vCenter=true&width=600&lines=Software+Engineer+%40+L%26T+Technology+Services;Building+Safety-Critical+Medical+Device+Software;Exploring+LangChain%2C+RAG+%26+LLMs;Open+Source+Contributor)](https://git.io/typing-svg)
-
-<br>
-
 ### 🔭 What I do
 - Building and Maintaining Software at **L&T Technology Services**
 - Writing **Angular / TypeScript** on the frontend and **Python (Django REST Framework, FastAPI)** on the backend
