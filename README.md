@@ -32,17 +32,3 @@ Software Engineer building safety-critical medical device software by day, tinke
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-
-### 📊 GitHub Stats
-
-![Manikandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManiMSV&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManiMSV&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManiMSV&theme=radical)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ManiMSV&theme=radical&row=1&column=6)
-
----
-
-⭐️ From [ManiMSV](https://github.com/ManiMSV)
